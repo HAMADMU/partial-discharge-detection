@@ -1,0 +1,6 @@
+data/
+data_toy/
+results_toy/
+__pycache__/
+*.pyc
+.venv/
